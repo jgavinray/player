@@ -6,6 +6,9 @@ edition = "2021"
 [dependencies]
 clap = "3.1.6"
 rodio = "0.14.0"
+dialoguer = "0.10"
+walkdir = "2.3"
+indicatif = "0.17"
 
 [profile.release]
 debug = false
