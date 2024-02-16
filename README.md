@@ -2,7 +2,7 @@
 
 A simple player that I use to play mp3s on my system. 
 I have begun to loathe the heavyweight marketing driven applications that play music in 2024, so I now have this. 
-What maybe a run idea is to add things like random play lists, remote play from a filesystem or server in my network. 
+Future features maybe add things like random play lists, remote play from a filesystem or server in my network. 
 Who knows?  Just fun and I get to play around with Rust.
 
 ## Development Toolchain
